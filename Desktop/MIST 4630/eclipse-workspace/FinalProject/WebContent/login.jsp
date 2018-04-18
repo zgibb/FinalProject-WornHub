@@ -10,12 +10,9 @@
 <body>
 
 <div class="topnav">
-  <a class="active" href="login.jsp">Home</a>
-  <a href="login.jsp">News</a>
-  <a href="login.jsp">Contact</a>
-  <a href="login.jsp">About</a>
+  <a class="active" href="">Login</a>
+  <a href="sign-up.jsp">Sign-Up!</a>
 </div>
-
 
 <h2>Login Form</h2>
 
