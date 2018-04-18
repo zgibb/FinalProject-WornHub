@@ -52,7 +52,15 @@ public class ReadQuery {
 		String table ="";
 		table += "<table border=1>";
 		
-		try {
+		try {	
+			table += "<tr>";
+			table += "<th>Username</th>";
+			table += "<th>Password</th>";
+			table += "<th>First Name</th>";
+			table += "<th>Last Name</th>";
+			table += "<th>Email Address</th>";
+			table += "</tr>";	
+			
 			while(this.results.next()){
 				
 				Customer customer = new Customer();
