@@ -10,10 +10,8 @@
 <body>
 
 <div class="topnav">
-  <a class="active" href="main.jsp">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="login.jsp">Login</a>
+  <a class="active" href="">Sign-Up!</a>
 </div>
 
 
